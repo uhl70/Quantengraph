@@ -4,9 +4,9 @@
 
 QuantenGraph – Informationen grafisch darstellen
 
-QuantenGraph ist eine kostenlose Windows-Anwendung zum Erstellen und Bearbeiten interaktiver Diagramme und Wissensgraphen. Beliebige Objekte lassen sich miteinander verknüpfen und mit eigenen Daten wie Texten, Bildern, Datumsangaben oder Notizen versehen. Für die Verbindungen stehen verschiedene Linien-, Pfeil- und Bézier-Kurven zur Verfügung, die ebenfalls beschriftet und mit Daten versehen werden können.
+QuantenGraph ist eine kostenlose Windows-Anwendung zum Erstellen und Bearbeiten interaktiver Diagramme und **Wissensgraphen**. Beliebige Objekte lassen sich miteinander verknüpfen und mit eigenen Daten wie Texten, **Bildern**, Datumsangaben oder Notizen versehen. Für die Verbindungen stehen verschiedene Linien-, Pfeil- und **Bézier-Kurven** zur Verfügung, die ebenfalls beschriftet und mit Daten versehen werden können.
 
-Die übersichtliche Zeichenfläche, freie Anordnung und vielfältigen Objekt- und Kantentypen machen QuantenGraph interessant für Wissenssammlungen, technische Zusammenhänge, Organisationsstrukturen, Mindmaps und individuelle grafische Darstellungen.
+Die übersichtliche Zeichenfläche, freie Anordnung und vielfältigen Objekt- und Kantentypen machen QuantenGraph interessant für **Wissenssammlungen, technische Zusammenhänge, Organisationsstrukturen, Mindmaps** und individuelle grafische Darstellungen.
 
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
