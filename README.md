@@ -1,6 +1,6 @@
 ![Icon](https://github.com/uhl70/Quantengraph/blob/main/QuantengraphLogo.png)
 
-# QuantenGraph 0.9.7 Beta
+# QuantenGraph 0.9.8 Beta
 
 QuantenGraph – Informationen grafisch darstellen
 
@@ -11,9 +11,7 @@ Die übersichtliche Zeichenfläche, freie Anordnung und vielfältigen Objekt- un
 Lauffähig unter Windows 7, 10, 11 64-Bit
 
 Download hier bei
-[GitHub](https://github.com/uhl70/QuantenGraph/releases/tag/v0.9.7-Beta)
-oder bei
-[Heise](https://www.heise.de/download/product/QuantenGraph)
+[GitHub](https://github.com/uhl70/QuantenGraph/releases/tag/v0.9.8-Beta)
 
 # QuantenGraph – Freeware License
 Copyright (c) 2026 Ulrich Daugs
